@@ -1,0 +1,27 @@
+body{
+  background-color: #FBF3E1;
+}
+
+div.MuiPaper-root{ 
+  background: #ffc1b6;
+}
+
+button.MuiButton-root{
+  color: #872228;
+  font-size: medium;
+  font-weight: bold;
+}
+
+#outlined-basic{
+  background: #fff;
+  
+}
+
+input.MuiOutlinedInput-input{
+  background-color: #fff;
+}
+
+span.MuiTypography-root{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
